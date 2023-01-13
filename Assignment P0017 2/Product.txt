@@ -1,0 +1,9 @@
+P001, CAKES, 20.0, 25, Available
+P003, PAPER, 999.9, 18, Available
+P004, LAPTOP, 542.0, 6, Available
+P005, TSHIRT, 1234.8, 25, Not available
+P007, SPEAKER, 333.2, 13, Available
+P009, SONIC, 120.5, 3, Not available
+P010, CAMERA, 203.1, 1, Not available
+P011, RECORDER, 2345.5, 6, Not available
+P002, COMPUTER, 123.45, 15, Available
